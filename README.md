@@ -8,3 +8,8 @@ Customer segmentation is a vital technique in marketing and business analysis th
 ## Installation
 
 To run the code in this repository, you'll need Python and the necessary libraries. You can install the required libraries using the following command:
+pip install -r requirements.txt
+git clone https://github.com/your-username/customer-segmentation.git
+
+cd customer-segmentation
+
